@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ductringuyen
 - 👀 I’m interested in ML/AI, Data Science and Software Engineering
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently learning Advanced Algorithmics
 - 💞️ I’m looking to collaborate on ML/AI, Software Engineering
 - 📫 How to reach me: ndtri.98@gmail.com
 
