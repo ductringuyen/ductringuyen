@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ductringuyen
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Transformer
-- 💞️ I’m looking to collaborate on ML/AI, Software Engineering
+- 👀 I’m interested in Embedded System
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Advanced Computer Architecture, Software Engineering
 - 📫 How to reach me: ndtri.98@gmail.com
 
 <!---
